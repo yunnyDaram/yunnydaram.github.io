@@ -13,11 +13,3 @@ footer_url: "https://yunnydaram.github.io"
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "About"
-   link: ""
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
