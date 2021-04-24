@@ -4,22 +4,17 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="yunnydaram.jpg">
 
 
-웹 프론트엔드 개발과 응용프로그램 개발 이력이 있습니다.
+웹 프론트엔드 개발과 윈도우 응용프로그램 개발 이력이 있습니다.
 
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-## Research Interest
+[GitHub](https://github.com/bk2dcradle/researcher)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+[Stackoverflow] (https://stackoverflow.com/users/9500538/kay?tab=questions)
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography
 
