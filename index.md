@@ -12,29 +12,31 @@ layout: default
 
 윈도우 응용프로그램 개발 및 기획의 경험이 있습니다.
 
-</br>
+<p></p>
 
 
-웹 개발로는, Javascript와 Node.js를 주로 사용하였습니다.
+Javascript와 Node.js를 주로 사용하였으며
 
 소켓통신을 이용하여 서버와 클라이언트 사이 데이터를 주고받아 처리하였고,
 
 HTML CSS를 사용하여 기본적인 페이지 UI 커스터마이징을 하였습니다.
 
-응용프로그램 개발로는, C#과 XAML을 사용한 WPF, UWP 개발을 진행하였습니다.
+<p></p>
+
+C#과 XAML을 사용한 WPF, UWP 개발 위주의 작업을 하였습니다.
 
 
 터치 모니터와의 연계되는 개발을 진행하였으며
 
 XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마이징을 하였습니다.
 
-</br>
+<p></p>
 
 
 최대한 초기 기획에 맞는 개발을 하도록 노력하며
 시작한 것은 결과를 도출해내는것을 목표로 하고있습니다.
 
-</br>
+<p></p>
 
 <pingu139k@gmail.com>
 
@@ -42,7 +44,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 [Stackoverflow](https://stackoverflow.com/users/9500538/kay?tab=questions)
 
-</br>
+<p></p>
 <p></p>
 
 <hr>
@@ -53,18 +55,27 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ## Web
 
-### JavaScript
 
 ### HTML/CSS
 
+### JavaScript
+
 ### Node.js
+
+### MySQL
+
+<p></p>
 
 
 ## Windows Application
 
+
 ### UWP
 
 ### WPF
+
+### C,C++,C#
+
 
 
 <p></p>
