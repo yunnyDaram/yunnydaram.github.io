@@ -8,34 +8,69 @@ layout: default
 
 <img class="profile-picture" src="yunnydaram.jpg">
 
-프론트엔드 위주의 웹 개발과 윈도우 응용프로그램 개발 및 기획의 경험이 있습니다.
+프론트엔드 위주의 웹 개발과
+
+윈도우 응용프로그램 개발 및 기획의 경험이 있습니다.
+
+</br>
 
 
 웹 개발로는, Javascript와 Node.js를 주로 사용하였습니다.
+
 소켓통신을 이용하여 서버와 클라이언트 사이 데이터를 주고받아 처리하였고,
+
 HTML CSS를 사용하여 기본적인 페이지 UI 커스터마이징을 하였습니다.
 
-응용프로그램 개발로는, C#과 XAML을 사용한 WPF, UWP 개발을 진행하였습니다..
+응용프로그램 개발로는, C#과 XAML을 사용한 WPF, UWP 개발을 진행하였습니다.
+
+
 터치 모니터와의 연계되는 개발을 진행하였으며
+
 XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마이징을 하였습니다.
 
-
+</br>
 
 
 최대한 초기 기획에 맞는 개발을 하도록 노력하며
 시작한 것은 결과를 도출해내는것을 목표로 하고있습니다.
 
+</br>
 
-
-[e-mail] <pingu139k@gmail.com>
+<pingu139k@gmail.com>
 
 [GitHub](https://github.com/yunnyDaram)
 
 [Stackoverflow](https://stackoverflow.com/users/9500538/kay?tab=questions)
 
+</br>
 <p></p>
 
 <hr>
+
+
+
+# Skill
+
+## Web
+
+### JavaScript
+
+### HTML/CSS
+
+### Node.js
+
+
+## Windows Application
+
+### UWP
+
+### WPF
+
+
+<p></p>
+
+<hr>
+
 
 # Experience
 
@@ -47,6 +82,8 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 2016.01~2016.02 | 스마트동스쿨
 - APM 웹 사이트 구축 및 MySQL 사용 DB 관리, 타이젠 OS 개발
+
+
 <p></p>
 <hr>
 
@@ -54,7 +91,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 기존 솔루션 성능 개선 2020.06~2020.08
 
-(Javascript, Node js, HTML, CSS)
+#### (Javascript, Node js, HTML, CSS)
 
 기존 프로그램의 버그 수정 및 기능 개선 
 
@@ -66,7 +103,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 기존 솔루션에 라이센스 발급 및 부여 2020.06~2020.08
 
-(C#, C, VB)
+#### (C#, C, VB)
 
 프로그램 오프라인 라이센스 발급 
 
@@ -77,7 +114,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 버전 관리 서버 구축 2020.05~2020.05
 
-(Linux, C, PHP)
+#### (Linux, C, PHP)
 
 프로그램 버전 관리용 서버 구축 
 
@@ -88,7 +125,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 디지털 교과서 지원 2019.04~2019.07
 
-(Javascript, Node.js, HTML, CSS)
+#### (Javascript, Node.js, HTML, CSS)
 
 프론트엔드 위주의 교육용 솔루션 개발 
 
@@ -104,7 +141,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 윈도우 10에서 사용 가능한 강의 저작 프로그램 2018.04~2018.07
 
-(C#, XAML, UWP(Universal Windows Platform))
+#### (C#, XAML, UWP(Universal Windows Platform))
 
 윈도우 7기준으로 작성된 프로그램의 윈도우 10에서 호환성 문제로 대체 프로그램 개발
 
@@ -121,7 +158,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 플립 러닝을 위한 강의 저작 프로그램 2018.01~2018.02
 
-(C#, XAML, UWP(Universal Windows Platform))
+#### (C#, XAML, UWP(Universal Windows Platform))
 
 경기도 ODA 사업 코베카(한베문화교류협회) 협력 및 지원 
 
@@ -135,7 +172,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 터치 모니터에 사용되는 판서 프로그램 수정 2017.06~2017.07
 
-(C#, XAML, WPF)
+#### (C#, XAML, WPF)
 
 영업부 및 고객 요청 사항들 추가 구현과 버그 수정
 
@@ -150,42 +187,6 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 <p></p>
 <hr>
-
-# Skill
-
-### JavaScript
-JavaScript, Jquery 및 기타 라이브러리를 참고하여 개발 진행 가능
-
-pdf.js를 사용하여 pdf 문서 변환
-excelexportjs.js를 이용하여 클라이언트 값 일괄 저장
-
-
-### Node.js
-소켓 통신과 이벤트 제어
-
-Socket.io를 이용하여 소켓 통신
-서버 통신에 필요한 필요한 이벤트 처리
-
-
-### HTML/CSS
-퍼블리싱 완료된 페이지 기초 커스터마이징 가능
-
-
-### UWP
-윈도우 10에서 지원하는 UWP(Universal Windows Platform) 방식을 사용하여 제품 출시, 유지보수
-
-연결된 웹 카메라 화면 리소스 사용,
-이미지, 동영상 확장자 및 PDF 문서 불러오기 가능,
-잉크 캔버스 및 잉크 툴바 커스터마이징,
-잉크 캔버스 사용 시 페이징 개념 알고리즘 도입,
-캔버스 잉크 내용 이미지로 일괄 저장 가능
-
-
-### WPF
-C#, XAML을 사용한 WPF 프로그램 수정 및 개발 및 공장 이관 후, 출시 및 유지보수
-
-랜덤 함수와 List 자료구조를 이용하여 라이센스 키 발급에 활용
-솔루션 리소스 Assets과 XAML을 활용하여 커스텀된 UI 구현
 
 
 
