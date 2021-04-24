@@ -7,36 +7,143 @@ layout: default
 <img class="profile-picture" src="yunnydaram.jpg">
 
 
-웹 프론트엔드 개발과 윈도우 응용프로그램 개발 이력이 있습니다.
+Javascript와 NodeJS를 사용한 웹 프론트엔드 개발과 C#, Xaml을 사용한 WPF, UWP 개발 및 출시 이력이 있습니다.
 
 
 
-[GitHub](https://github.com/bk2dcradle/researcher)
+[GitHub](https://github.com/yunnyDaram)
 
-[Stackoverflow] (https://stackoverflow.com/users/9500538/kay?tab=questions)
+[Stackoverflow](https://stackoverflow.com/users/9500538/kay?tab=questions)
 
 
-## Typography
+## Experience
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+      연도       |   회사   |                     담당
+---------------|---------|--------------------------------------------
+2017.05~2020.12| 이솔정보통신 | 교육용 소프트웨어 개발, 유지보수
+2017.02~2017.05| 이솔정보통신 | 터치 모니터 연계되는 기존 판서 소프트웨어 버그 수정 및 업데이트
+2016.01~2016.02| 스마트동스쿨 | APM 웹 사이트 구축 및 MySQL 사용 DB 관리, 타이젠 OS 개발
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Project
 
-Here is a horizontal rule
+성능 개선 및 라이센스 발급 2020.06~2020.08
+
+1. 기존 프로그램의 버그 수정 및 기능 개선 (Javascript, Node js, HTML, CSS)
+
+내용 :
+- 로그인 시 참여자의 입력값 (이름, 번호)에 과도한 길이의 입력 방지 차원에서 제한 알고리즘 적용
+- 특정 소켓 통신 이벤트 리스너 중 특정 값을 받아야만 실행이 되는 이벤트 적용
+- HTML, CSS 사용한 전반적인 UI 개선 (다자간 채팅 시 채팅 사람별 위치 정렬, 소켓별 참여자 목록 표기)
+
+
+2. 프로그램 오프라인 라이센스 발급 (C#, C, VB)
+
+내용 :
+- 난수 규칙을 만들어 적합하지 않은 라이센스 입력값으로는 라이센스 발급 불가
+- 프로그램 실행 시 라이센스 존재 여부 확인, 내용 비교 후 프로그램 실행
+
+
+버전 관리 서버 구축 2020.05~2020.05
+프로그램 버전 관리를 위해 관리용 서버 구축으로 버전 관리 편의 개선 (Linux, C, PHP)
+
+내용 :
+- 우분투(ubuntu) 리눅스 서버 버전 및 APM 구축
+- 센토라 호스팅 패널 사용하여 외부 데이터베이스 구축 후 외부 FTP 접속 허용
+
+
+디지털 교과서 지원 2019.04~2019.07
+
+프론트엔드 위주의 교육용 솔루션 개발 (Javascript, Node.js, HTML, CSS)
+지원 기관 : 디지털 교과서 시범 학교 납품
+
+내용 :
+- Node.js Socket.io를 이용한 기본 통신과 다대다 채팅 구현
+- JSON 데이터를 데이터베이스로 활용하여 접속한 참여자 목록 확인
+- 데스크탑을 하나의 서버로 하여 디지털 교과서, pdf 페이지를 로컬 연결 내 실시간 전송
+- pdf.js 라이브러리 사용하여 pdf 문서 페이지별 변환
+- excelexportjs.js로 참여자들의 입력값 JSON 형식으로 일괄 저장
+
+
+윈도우 10에서 사용 가능한 강의 저작 프로그램 2018.04~2018.07
+윈도우 7기준으로 작성된 프로그램의 윈도우 10에서 호환성 문제로 대체 프로그램 개발
+(C#, XAML, UWP(Universal Windows Platform))
+
+내용 :
+- openfiledialog 이용하여 이미지, 동영상, pdf 문서 불러오기 기능 구현
+- 이미지, 동영상, pdf 위 캔버스 z-index 조정으로 필기 기능 구현
+- 연결된 웹 카메라 리소스 사용
+- 페이지 개념 추가
+(캔버스 내용 페이지 별도 리소스로 저장하여 페이지 이동 개념 도입)
+- 생성된 모든 페이지의 내용 이미지 파일로 일괄 저장 가능
+- 윈도우 제공 멀티 터치 제스쳐 추가
+- 화면 녹화 오픈소스인 ShareX, Shotcut 프로그램의 녹화 모듈 참고
+
+
+플립 러닝을 위한 강의 저작 프로그램 2018.01~2018.02
+
+경기도 ODA 사업 코베카(한베문화교류협회) 협력 및 지원 (C#, XAML, UWP(Universal Windows Platform))
+지원 기관 : 호치민 소재 중학교, 고등학교
+
+내용 :
+- openfiledialog 이용하여 이미지, pdf 문서 불러오기 기능 구현
+- 불러온 이미지, 동영상, pdf 문서 위 캔버스 z-index 조작으로 필기 기능 구현
+- 터치 스크린에서 이미지, 동영상 파일 윈도우 터치 제어 추가
+
+터치 모니터, 스크린에 사용되는 판서 프로그램 수정(사내 프로그램 수정) 2017.06~2017.07(2개월)
+
+영업부 및 고객 요청 사항들 추가 구현과 연구소 개발자 부재로 인해 해결되지 않은 버그들 수정
+(C#, XAML, WPF)
+
+내용 :
+- 불러오기 가능한 이미지, 동영상 확장자 추가
+- 설치 방식 수정 (특정 dll이 포함되지 않아 발생한 문제 확인 후, Setup 파일 생성 시 dll 추가로 해결)
+- 터치 스크린에서 이미지, 동영상 이동, 크기 조절, 회전 시 관성 값 조절 (manipulation inertia)
+- 윈도우 멀티 터치로 제스쳐 기능 제어
+- PC에 하드웨어 연결 문제 시 예외 처리 추가
+(마이크 인식에 문제가 생긴 경우, 화면 녹화 기능이 동작하지 않는 문제 발견 후,
+장치 연결이 없이 또는 마이크 인식에 문제가 있어도 녹화 기능이 동작하도록 예외 처리 추가)
+- 동영상 재생 시 재생과 일시 정지 기능 추가, 동영상의 시간과 재생 중 시간 표기 추가
+
+## Skill
+
+JavaScript / 전반적인 프론트 엔드 개발 가능
+프론트 엔드 위주의 개발을 진행하여 JavaScript, Jquery 및 기타 라이브러리를 참고하여 개발 진행
+
+내용 :
+pdf.js를 사용하여 pdf 문서 변환 가능
+excelexportjs.js를 사용하여 사용자의 입력 엑셀로 일괄 저장 가능
+
+Node.js / 기본 통신 가능
+소켓 통신과 이벤트 제어
+
+내용 :
+Socket.io를 이용하여 소켓 통신
+서버 통신에 필요한 필요한 이벤트 처리
+
+
+UWP / 제품 출시
+윈도우 10에서 지원하는 UWP(Universal Windows Platform) 방식을 사용하여 제품 출시, 유지보수
+
+내용 :
+연결된 웹 카메라 화면 리소스 사용,
+이미지, 동영상 확장자 및 PDF 문서 불러오기 가능,
+잉크 캔버스 및 잉크 툴바 커스터마이징,
+잉크 캔버스 사용 시 페이징 개념 알고리즘 도입,
+캔버스 잉크 내용 이미지로 일괄 저장 가능
+
+WPF / 기존 프로그램 수정 및 제품 출시
+C#, XAML을 사용한 WPF 프로그램 수정 및 개발 및 사내 공장 이관 후, 제품으로 판매
+
+내용 :
+랜덤 함수와 List 자료구조를 이용하여 라이센스 키 발급에 활용
+솔루션 리소스 Assets과 XAML을 활용하여 커스텀된 UI 구현
+
+
 
 ---
 
-Here is a blockquote
+# References
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+# * Foo Bar: Head of Department, Placeholder Names, Lorem
+# * John Doe: Associate Professor, Department of Computer Science, Ipsum
