@@ -54,13 +54,13 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 ## Web
 
 
-### HTML/CSS
+- HTML/CSS
 
-### JavaScript
+- JavaScript
 
-### Node.js
+- Node.js
 
-### MySQL
+- MySQL
 
 <h1><p></p></h1>
 
@@ -68,11 +68,11 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 ## Windows Application
 
 
-### UWP
+- UWP
 
-### WPF
+- WPF
 
-### C,C++,C#
+- C,C++,C#
 
 
 
