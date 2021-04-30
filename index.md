@@ -51,14 +51,25 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 # Skill
 
-## Web
-
+## Front-end
 
 - HTML/CSS
 
 - JavaScript
 
+- MySQL
+
+<h1><p></p></h1>
+
+## Back-end
+
 - Node.js
+
+- AWS
+
+<h1><p></p></h1>
+
+## Database
 
 - MySQL
 
@@ -67,14 +78,11 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ## Windows Application
 
-
 - UWP
 
 - WPF
 
 - C,C++,C#
-
-
 
 <h1><p></p></h1>
 
