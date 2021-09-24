@@ -12,8 +12,7 @@ Node.js를 이용한 프론트엔드 위주의 개발과
 
 C#,Xaml을 이용한 윈도우 응용프로그램(WPF) 개발 및 기획의 실무 경험이 있습니다.
 
-
-<h1><p></p></h1>
+<hr>
 
 
 프론트 엔드 개발의 경우, Javascript와 Node.js를 주로 사용하였으며
@@ -22,29 +21,26 @@ HTML/CSS로 퍼블리싱이 된 페이지 UI 커스터마이징을 하였습니�
 
 <p></p>
 
-C#을 사용한 WPF [Windows Presentation Foundation] (https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019),
-
-UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide) 를 이용하여
+C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019),
+[UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide)를 이용하여
 
 학교에 납품되는 터치 모니터와 연계되는 자사 윈도우 프로그램 개발을 진행하였으며
 
-[XAML] (https://docs.microsoft.com/ko-kr/dotnet/desktop/wpf/xaml/?view=netdesktop-5.0) 로 프로그램의 UI 커스터마이징을 하였습니다.
+[XAML](https://docs.microsoft.com/ko-kr/dotnet/desktop/wpf/xaml/?view=netdesktop-5.0)로 프로그램의 UI 커스터마이징을 하였습니다.
 
-<h1><p></p></h1>
+<h1></h1>
 
-<p></p>
-
-진행한 1인 사이드 프로젝트로는
+진행한 사이드 프로젝트로는
 
 클라우드 기반 서버에 지도 API를 연동하여 동네 간식 지도 서비스를
 
 제작한 경험이 있습니다.
 
-<hr>
+<p></p>
 
 참여해본 팀 프로젝트로는,
 
-[2020 파스타 클라우드 서비스 공모전] (https://paas-ta.kr/) 에
+[2020 파스타 클라우드 서비스 공모전](https://paas-ta.kr/)에
 
 지자체 예산을 활용하여 코로나19 피해를 입은 소상공인, 결식아동, 대학생을 대상으로 한
 
@@ -54,19 +50,18 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 최대한 기획에 맞는 개발을 하도록 노력하며
 
-시작한 것은 결과를 도출해내는 것을 목표로 하고있습니다.
+결과를 기한 내에 도출해내는 것을 목표로 하고있습니다.
 
-<h1><p></p></h1>
+<h1></h1>
 
 
 📧  <pingu139k@gmail.com>
 
-📌  [개발 블로그] (https://studyingpingu.tistory.com/)
+📌  [개발 블로그](https://studyingpingu.tistory.com/)
 
-🗺️  [간식지도] (http://gansik.cf)
+🗺️  [간식지도](http://gansik.cf)
 
 
-<h1><p></p></h1>
 <p></p>
 
 <hr>
@@ -81,9 +76,6 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 - Javascript
 
-
-<h1><p></p></h1>
-
 ## Back-end
 
 - Node.js
@@ -92,16 +84,11 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 - AWS
 
-<h1><p></p></h1>
-
 ## Database
 
 - MySQL
 
 - MongoDB
-
-<h1><p></p></h1>
-
 
 ## Windows Application
 
@@ -109,10 +96,7 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 - WPF (C#, Xaml)
 
-- C,C++,C#
-
-<h1><p></p></h1>
-
+- C, C++, C#
 
 ## etc.
 
@@ -120,8 +104,6 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 - Socket.io
 
-
-<h1><p></p></h1>
 
 <hr>
 
@@ -138,7 +120,7 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 - 서버에 등록된 정보를 지도에 표기하여 동네에 있는 간식 정보 이용 가능
 
-<hr>
+<h1></h1>
 
 ### 파스타 공모전
 
@@ -150,7 +132,7 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 
 - Javascript, HTML/CSS로 페이지 UI 개발
 
-<h1><p></p></h1>
+
 <hr>
 
 
@@ -166,7 +148,7 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 - APM 웹 사이트 구축 및 MySQL 사용 DB 관리, 타이젠 OS 개발
 
 
-<h1><p></p></h1>
+
 <hr>
 
 # Project
@@ -265,9 +247,6 @@ UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/ge
 - 하드웨어 연결 인식 문제 시 예외 처리 추가
 - 동영상 재생 시 재생과 일시 정지 기능 추가, 동영상 시간과 재생 시간 표기
 
-
-<h1><p></p></h1>
-<hr>
 
 
 
