@@ -8,39 +8,63 @@ layout: default
 
 <img class="profile-picture" src="yunnydaram.jpg">
 
-프론트엔드 위주의 웹 개발과
+Node.js를 이용한 프론트엔드 위주의 개발과
 
-윈도우 응용프로그램 개발 및 기획의 경험이 있습니다.
+C#,Xaml을 이용한 윈도우 응용프로그램(WPF) 개발 및 기획의 실무 경험이 있습니다.
+
 
 <h1><p></p></h1>
 
 
-Javascript와 Node.js를 주로 사용하였으며
+프론트 엔드 개발의 경우, Javascript와 Node.js를 주로 사용하였으며
 
-소켓통신을 이용하여 서버와 클라이언트 사이 데이터를 주고받아 처리하였고,
-
-HTML CSS를 사용하여 기본적인 페이지 UI 커스터마이징을 하였습니다.
+HTML/CSS로 퍼블리싱이 된 페이지 UI 커스터마이징을 하였습니다.
 
 <p></p>
 
-C#과 XAML을 사용한 WPF, UWP를 이용한
+C#을 사용한 WPF [Windows Presentation Foundation] (https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019),
 
-터치 모니터와의 연계되는 개발을 진행하였으며
+UWP[Universal Windows Platform] (https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide) 를 이용하여
 
-XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마이징을 하였습니다.
+학교에 납품되는 터치 모니터와 연계되는 자사 윈도우 프로그램 개발을 진행하였으며
+
+[XAML] (https://docs.microsoft.com/ko-kr/dotnet/desktop/wpf/xaml/?view=netdesktop-5.0) 로 프로그램의 UI 커스터마이징을 하였습니다.
 
 <h1><p></p></h1>
+
+<p></p>
+
+진행한 1인 사이드 프로젝트로는
+
+클라우드 기반 서버에 지도 API를 연동하여 동네 간식 지도 서비스를
+
+제작한 경험이 있습니다.
+
+<hr>
+
+참여해본 팀 프로젝트로는,
+
+[2020 파스타 클라우드 서비스 공모전] (https://paas-ta.kr/) 에
+
+지자체 예산을 활용하여 코로나19 피해를 입은 소상공인, 결식아동, 대학생을 대상으로 한
+
+도시락 배달 서비스를 기획하고 개발한 경험이 있습니다.
+
+<hr>
 
 최대한 기획에 맞는 개발을 하도록 노력하며
-시작한 것은 결과를 도출해내는것을 목표로 하고있습니다.
+
+시작한 것은 결과를 도출해내는 것을 목표로 하고있습니다.
 
 <h1><p></p></h1>
 
-<pingu139k@gmail.com>
 
-[GitHub](https://github.com/yunnyDaram)
+📧  <pingu139k@gmail.com>
 
-[Stackoverflow](https://stackoverflow.com/users/9500538/kay?tab=questions)
+📌  [개발 블로그] (https://studyingpingu.tistory.com/)
+
+🗺️  [간식지도] (http://gansik.cf)
+
 
 <h1><p></p></h1>
 <p></p>
@@ -55,15 +79,16 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 - HTML/CSS
 
-- JavaScript
+- Javascript
 
-- MySQL
 
 <h1><p></p></h1>
 
 ## Back-end
 
 - Node.js
+
+- Express.js
 
 - AWS
 
@@ -73,19 +98,59 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 - MySQL
 
+- MongoDB
+
 <h1><p></p></h1>
 
 
 ## Windows Application
 
-- UWP
+- UWP (C#, Xaml)
 
-- WPF
+- WPF (C#, Xaml)
 
 - C,C++,C#
 
 <h1><p></p></h1>
 
+
+## etc.
+
+- Linux
+
+- Socket.io
+
+
+<h1><p></p></h1>
+
+<hr>
+
+
+# Side Project
+
+### 겨울간식 지도
+
+#### (Javascript, Node.js, HTML/CSS, aws, Linux, MongoDB)
+
+- 유저가 참여하는 우리동네 겨울간식 지도 서비스 기획 및 제작
+
+- 지도 위 특정 장소에 대한 기본 정보 및 사진 업로드 가능
+
+- 서버에 등록된 정보를 지도에 표기하여 동네에 있는 간식 정보 이용 가능
+
+<hr>
+
+### 파스타 공모전
+
+#### (Javascript, Node.js, HTML/CSS, MySQL)
+
+- 유저(소상공인, 학생, 결식 아동, 지자체 관리자)별 DB 구조, 페이지 기획
+
+- Node.js 서버 구축
+
+- Javascript, HTML/CSS로 페이지 UI 개발
+
+<h1><p></p></h1>
 <hr>
 
 
@@ -108,7 +173,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 ### 기존 솔루션 성능 개선 2020.06~2020.08
 
-#### (Javascript, Node js, HTML, CSS)
+#### (Javascript, Node js, HTML/CSS)
 
 기존 프로그램의 버그 수정 및 기능 개선 
 
@@ -135,24 +200,23 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 프로그램 버전 관리용 서버 구축 
 
-- 우분투(ubuntu) 리눅스 서버 버전 및 APM 구축
-- 센토라 호스팅 패널 사용, 외부 FTP 접속 허용
+- 우분투(ubuntu), 센토라 리눅스 서버 구축
 
 <hr>
 
 ### 디지털 교과서 지원 2019.04~2019.07
 
-#### (Javascript, Node.js, HTML, CSS)
+#### (Javascript, Node.js, HTML/CSS)
 
 프론트엔드 위주의 교육용 솔루션 개발 
 
 지원 기관 : 디지털 교과서 시범 학교 납품
 
-- Node.js Socket.io를 이용한 기본 통신과 다대다 채팅 구현
+- Node.js Socket.io를 이용한 통신과 다대다 채팅 구현
 - JSON 데이터를 데이터베이스로 활용하여 참여자 확인
-- 데스크탑을 서버로 하여 로컬 연결 기기에 디지털 교과서, pdf 페이지 실시간 전송
+- 데스크탑 서버로 접속 기기에 디지털 교과서, pdf 페이지 실시간 전송
 - pdf.js 라이브러리 사용하여 pdf 문서 페이지별 변환
-- excelexportjs.js로 참여자 입력값 일괄 저장
+- excelexportjs.js 라이브러리로 참여자 입력값 일괄 저장
 
 <hr>
 
@@ -160,7 +224,7 @@ XAML과 프로젝트 리소스를 이용하여 프로그램의 UI 커스터마�
 
 #### (C#, XAML, UWP(Universal Windows Platform))
 
-윈도우 7기준으로 작성된 프로그램의 윈도우 10에서 호환성 문제로 대체 프로그램 개발
+윈도우 7기준으로 작성된 프로그램의 윈도우 10 호환성 문제로 대체 프로그램 개발
 
 
 - openfiledialog 이용하여 이미지, 동영상, pdf 문서 불러오기 기능 구현
