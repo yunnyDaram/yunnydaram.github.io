@@ -10,14 +10,21 @@ layout: default
 
 Node.js를 이용한 프론트엔드 위주의 개발과
 
-C#,Xaml을 이용한 윈도우 응용프로그램(WPF) 개발 및 기획의 실무 경험이 있습니다.
+윈도우 응용프로그램(WPF : C#, Xaml) 개발, 기획 업무를 담당 하였습니다.
+
+
+최대한 기획에 맞는 개발을 하도록 노력하며
+
+결과를 기한 내에 도출해내는 것을 목표로 하고있습니다.
+
 
 <hr>
 
+프론트 엔드는, Javascript와 Node.js를 사용하였으며
 
-프론트 엔드 개발의 경우, Javascript와 Node.js를 주로 사용하였으며
+HTML/CSS로 UI 커스터마이징을 하여 페이지를 제작하였고,
 
-HTML/CSS로 퍼블리싱이 된 페이지 UI 커스터마이징을 하였습니다.
+백엔드는 Node.js와 Socket.io를 이용하였습니다.
 
 <p></p>
 
@@ -47,10 +54,6 @@ C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/ge
 도시락 배달 서비스를 기획하고 개발한 경험이 있습니다.
 
 <hr>
-
-최대한 기획에 맞는 개발을 하도록 노력하며
-
-결과를 기한 내에 도출해내는 것을 목표로 하고있습니다.
 
 <h1></h1>
 
