@@ -24,22 +24,20 @@ Node.js를 이용한 프론트엔드 위주의 개발과
 
 HTML/CSS로 UI 커스터마이징을 하여 페이지를 제작하였고,
 
-백엔드는 Node.js와 Socket.io를 이용하였습니다.
+백엔드는 Node.js를 이용하였습니다.
 
 <p></p>
 
-C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019),
-[UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide)를 이용하여
+C#, [XAML](https://docs.microsoft.com/ko-kr/dotnet/desktop/wpf/xaml/?view=netdesktop-5.0)을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/getting-started-with-wpf?view=vs-2019),
+[UWP](https://docs.microsoft.com/ko-kr/windows/uwp/get-started/universal-application-platform-guide) 기획과 개발을 담당하여
 
-학교에 납품되는 터치 모니터와 연계되는 자사 윈도우 프로그램 개발을 진행하였으며
-
-[XAML](https://docs.microsoft.com/ko-kr/dotnet/desktop/wpf/xaml/?view=netdesktop-5.0)로 프로그램의 UI 커스터마이징을 하였습니다.
+학교에 납품되는 터치 모니터와 연계되는 자사 윈도우 프로그램 개발을 진행하였습니다.
 
 <h1></h1>
 
 진행한 사이드 프로젝트로는
 
-클라우드 기반 서버에 지도 API를 연동하여 동네 간식 지도 서비스를
+aws EC2에 지도 API를 연동하여 겨울 간식 지도 서비스를
 
 제작한 경험이 있습니다.
 
@@ -117,11 +115,21 @@ C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/ge
 
 #### (Javascript, Node.js, HTML/CSS, aws, Linux, MongoDB)
 
-- 유저가 참여하는 우리동네 겨울간식 지도 서비스 기획 및 제작
+- aws EC2, Node.js, Express, MongoDB로 서버 환경 구축
+- 우리동네 겨울간식 지도 서비스 기획 및 제작
+- 카카오맵 API를 이용하여 지도 데이터 이용
+- 선택한 특정 장소에 대한 정보 및 사진 업로드 가능
+- 등록된 장소를 지도에 표기하여 근처의 간식 정보 이용 가능
+- 모바일 지도 어플(카카오맵, 네이버지도)로 간식 장소와 연동 가능
 
-- 지도 위 특정 장소에 대한 기본 정보 및 사진 업로드 가능
+<h1></h1>
 
-- 서버에 등록된 정보를 지도에 표기하여 동네에 있는 간식 정보 이용 가능
+### 소프트웨어 유지보수
+
+#### (C#, XAML, UWP(Universal Windows Platform))
+
+- WPF 녹화 오픈소스 모듈 분석 및 특정 모듈 커스터마이징하여 기존 프로그램에 추가
+
 
 <h1></h1>
 
@@ -129,11 +137,10 @@ C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/ge
 
 #### (Javascript, Node.js, HTML/CSS, MySQL)
 
-- 유저(소상공인, 학생, 결식 아동, 지자체 관리자)별 DB 구조, 페이지 기획
-
-- Node.js 서버 구축
-
-- Javascript, HTML/CSS로 페이지 UI 개발
+- PaaS-TA, Node.js, Express로 서버 구축
+- 지자체에서 소상공인과 학생, 결식 아동을 매핑하여 방학 동안 도시락 배달이 가능하도록 함
+- 유저(소상공인, 학생, 결식 아동, 지자체 관리자)별 DB 구조, 필요 기능 등 페이지 기획
+- Javascript, HTML/CSS로 페이지 작성
 
 
 <hr>
@@ -189,7 +196,17 @@ C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/ge
 
 <hr>
 
-### 디지털 교과서 지원 2019.04~2019.07
+### 스마트팜 유지보수 2019.11~2020.01
+
+#### (Linux, C/C++)
+
+스마트 작물 재배 시스템 유지보수
+
+- 기존 소스 분석 후 버그 수정 및 업데이트
+
+<hr>
+
+### 디지털 교과서 지원 2019.01~2019.08
 
 #### (Javascript, Node.js, HTML/CSS)
 
@@ -205,7 +222,7 @@ C#을 사용한 [WPF](https://docs.microsoft.com/ko-kr/visualstudio/designers/ge
 
 <hr>
 
-### 윈도우 10에서 사용 가능한 강의 저작 프로그램 2018.04~2018.07
+### 윈도우 10에서 사용 가능한 강의 저작 프로그램 2018.03~2018.09
 
 #### (C#, XAML, UWP(Universal Windows Platform))
 
